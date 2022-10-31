@@ -108,7 +108,7 @@ and selecting the preferred language.
 .. note::
 
    We set up a GitHub organization and translation workflow to help streamline the
-   community efforts. Please refer to the translation guide in the `solidity-docs org https://github.com/solidity-docs>`_
+   community efforts. Please refer to the translation guide in the `solidity-docs org <https://github.com/solidity-docs>`_
    for information on how to start a new language or contribute to the community translations.
 
 Contents
